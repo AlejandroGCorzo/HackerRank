@@ -13,4 +13,4 @@ function timeConversion(str) {
   }
 }
 
-console.log(timeConversion('01:05:45AM'));
+console.log(timeConversion('11:05:45AM'));
