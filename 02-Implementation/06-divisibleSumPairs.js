@@ -13,7 +13,6 @@ function divisibleSumPairs(n, k, ar) {
         howMany.push([index1, index2]);
     });
   });
-  console.log(howMany);
   return howMany.length;
 }
 
